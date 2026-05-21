@@ -7,3 +7,4 @@
   * naughty
   * playful
     [neko cafe](https://example.com)
+    ![Neko](https://share.google/jEyTC00UEM3kEoXJG)
