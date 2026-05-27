@@ -1,6 +1,6 @@
  # description 
 
-hi im andrew 22yrs old inspiring as vtuber artist,a anime fan,gamer and still beginner in programming 
+hi im andrew 22yrs old inspiring as vtuber artist,a anime fan,gamer and still beginner in programming. I am introvert person but talk active with my friends i can cook and i like collecting cute stuff
 
 ## Expertise
 - ✏️ traditional art
