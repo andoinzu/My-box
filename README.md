@@ -1,4 +1,8 @@
 # konnichiwa andrew des
+## description 
+
+hi im andrew 22yrs old inspiring as vtuber artist 
+
 - Artist
 - Video gamer
 - beginner programer
